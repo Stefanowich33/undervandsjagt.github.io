@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Undervandsjagt</title>
-    <link>https://stefanowich33.github.io/undervandsjagt.github.io/categories/</link>
+    <link>www.harpunfiskeren.dk/categories/</link>
     <description>Recent content in Categories on Undervandsjagt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://stefanowich33.github.io/undervandsjagt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="www.harpunfiskeren.dk/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
