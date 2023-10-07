@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.harpunfiskeren.dk/posts/my-second-post/</loc>
+    <loc>http://www.harpunfiskeren.dk/posts/my-second-post/</loc>
     <lastmod>2023-10-06T23:37:38+02:00</lastmod>
   </url><url>
-    <loc>www.harpunfiskeren.dk/posts/</loc>
+    <loc>http://www.harpunfiskeren.dk/posts/</loc>
     <lastmod>2023-10-06T23:37:38+02:00</lastmod>
   </url><url>
-    <loc>www.harpunfiskeren.dk/</loc>
+    <loc>http://www.harpunfiskeren.dk/</loc>
     <lastmod>2023-10-06T23:37:38+02:00</lastmod>
   </url><url>
-    <loc>www.harpunfiskeren.dk/posts/my-first-post/</loc>
+    <loc>http://www.harpunfiskeren.dk/posts/my-first-post/</loc>
     <lastmod>2023-10-05T17:43:17+02:00</lastmod>
   </url><url>
-    <loc>www.harpunfiskeren.dk/categories/</loc>
+    <loc>http://www.harpunfiskeren.dk/categories/</loc>
   </url><url>
-    <loc>www.harpunfiskeren.dk/tags/</loc>
+    <loc>http://www.harpunfiskeren.dk/tags/</loc>
   </url>
 </urlset>

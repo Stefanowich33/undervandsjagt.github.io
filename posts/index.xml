@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Undervandsjagt</title>
-    <link>www.harpunfiskeren.dk/posts/</link>
+    <link>http://www.harpunfiskeren.dk/posts/</link>
     <description>Recent content in Posts on Undervandsjagt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Oct 2023 23:37:38 +0200</lastBuildDate><atom:link href="www.harpunfiskeren.dk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Oct 2023 23:37:38 +0200</lastBuildDate><atom:link href="http://www.harpunfiskeren.dk/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Post</title>
-      <link>www.harpunfiskeren.dk/posts/my-second-post/</link>
+      <link>http://www.harpunfiskeren.dk/posts/my-second-post/</link>
       <pubDate>Fri, 06 Oct 2023 23:37:38 +0200</pubDate>
       
-      <guid>www.harpunfiskeren.dk/posts/my-second-post/</guid>
+      <guid>http://www.harpunfiskeren.dk/posts/my-second-post/</guid>
       <description>Hvad er undervandsjagt? Undervandsjagt også kaldet UV-jagt bla bla bla</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>www.harpunfiskeren.dk/posts/my-first-post/</link>
+      <link>http://www.harpunfiskeren.dk/posts/my-first-post/</link>
       <pubDate>Thu, 05 Oct 2023 17:43:17 +0200</pubDate>
       
-      <guid>www.harpunfiskeren.dk/posts/my-first-post/</guid>
+      <guid>http://www.harpunfiskeren.dk/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
 Visit the Hugo website!</description>
     </item>
